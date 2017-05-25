@@ -1,3 +1,3 @@
 @Server/is/Online@
-@ProgramVersion/0.5@
+@ProgramVersion/1.0@
 @Update/https://www.dropbox.com/sh/g3drb4eszimvl5c/AABqioin3XmFTKa99Rw-4Bzpa?dl=0@

@@ -1,3 +1,4 @@
 @Server/is/Online@
-@ProgramVersion/2.7@
+@ProgramVersion/2.71@
 @Update/https://www.dropbox.com/sh/g3drb4eszimvl5c/AABqioin3XmFTKa99Rw-4Bzpa?dl=0@
+@UpdateMemo/명성 보조슬롯 레벨업 등이 안되던 문제 수정, 업데이트 전에 내역 미리보기 추가@

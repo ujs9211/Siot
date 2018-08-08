@@ -1,0 +1,3 @@
+@Server/is/Online@
+@ProgramVersion/0.7@
+@Update/аж╪р@
